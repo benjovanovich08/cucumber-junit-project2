@@ -1,3 +1,4 @@
+@regression
 Feature: Wikipedia Search Functionality and verifications
 
   Background:
